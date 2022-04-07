@@ -44,13 +44,13 @@
         <dependency>
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper-spring-boot-starter</artifactId>
-            <version>1.2.10</version>
+            <version>1.4.2</version>
         </dependency>
         <!--集成druid连接池-->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid-spring-boot-starter</artifactId>
-            <version>1.1.10</version>
+            <version>1.1.16</version>
         </dependency>
         <!-- MyBatis 生成器 -->
         <dependency>
